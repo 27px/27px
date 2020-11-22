@@ -1,10 +1,16 @@
-### Hi there 👋
+## Rahul R
+
+### My Stats
+---
+<img align="left" alt="27px's Github Stats" src="https://github-readme-stats.vercel.app/api?username=27px&show_icons=true&hide_border=true" />
+
+
+
+
+
+
 
 <!--
-**27px/27px** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
