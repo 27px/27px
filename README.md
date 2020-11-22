@@ -2,7 +2,11 @@
 
 ### My Stats
 ---
-<img align="left" alt="27px's Github Stats" src="https://github-readme-stats.vercel.app/api?username=27px&show_icons=true&hide_border=true" />
+
+<div style="display:flex;flex-wrap:wrap">
+  <img align="center" alt="27px's Github Stats" src="https://github-readme-stats.vercel.app/api?username=27px&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img align="center" alt="27px's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27px&layout=compact" />
+</div>
 
 
 
