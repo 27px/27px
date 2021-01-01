@@ -59,6 +59,13 @@
 <img align="left" src="https://img.shields.io/badge/Advanced-XML-brightgreen">
 <br><br>
 
++ Package Management
+
+<img align="left" src="https://img.shields.io/badge/Intermediate-NPM-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Intermediate-PIP-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Beginner-MVN-brightgreen">
+<br><br>
+
 + Other
 
 <img align="left" src="https://img.shields.io/badge/Advanced-HTML-brightgreen">
