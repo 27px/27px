@@ -1,7 +1,6 @@
 ## <a href="https://27px.github.io/">Portfolio (Rahul R)</a>
-<br>
 
-###### Final Year MCA Student at Govt. RIT Kottayam
+###### 2021 MCA Pass-out from Govt. RIT Kottayam
 
 ### My Stats
 ---
@@ -17,67 +16,54 @@
 
 + Back-end
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Node.JS-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-Express.js-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-EJS-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-PHP-brightgreen">
-<br><br>
+<img align="left" src="https://img.shields.io/badge/Node.JS-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/Express.js-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/EJS-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/PHP-Advanced-brightgreen"><br>
 
 + Front-end
 
-<img align="left" src="https://img.shields.io/badge/Advanced-JavaScript-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-ES7-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-CSS-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-Angular-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-React-brightgreen">
-<br><br>
+<img align="left" src="https://img.shields.io/badge/JavaScript-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/ES7-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/CSS-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/Angular-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/React-Beginner-brightgreen"><br>
 
 + Databases
 
-<img align="left" src="https://img.shields.io/badge/Advanced-MySQL-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-Postgresql-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-MongoDB-brightgreen">
-<br><br>
+<img align="left" src="https://img.shields.io/badge/MySQL-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/Postgresql-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/MongoDB-Intermediate-brightgreen"><br>
 
 + General Purpose Programming
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Python-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-Java-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-Spring Boot-brightgreen">
-<br><br>
+<img align="left" src="https://img.shields.io/badge/Python-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/Java-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/Spring%20Boot-Beginner-brightgreen"><br>
 
 + Version Control
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Git-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-Github-brightgreen">
-<br><br>
+<img align="left" src="https://img.shields.io/badge/Git-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/Github-Advanced-brightgreen"><br>
 
 + Data Transport
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-REST API-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-JSON-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-XML-brightgreen">
-<br><br>
+<img align="left" src="https://img.shields.io/badge/REST%20API-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/JSON-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/XML-Advanced-brightgreen"><br>
 
 + Package Management
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-NPM-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-PIP-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-MVN-brightgreen">
-<br><br>
+<img align="left" src="https://img.shields.io/badge/NPM-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/PIP-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/MVN-Beginner-brightgreen"><br>
 
 + Other
 
-<img align="left" src="https://img.shields.io/badge/Advanced-HTML-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-AJAX-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-SVG-brightgreen">
-
-<br><br><br>
-
-
-
-
-
+<img align="left" src="https://img.shields.io/badge/HTML-Advanced-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/AJAX-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/REST%20API-Intermediate-brightgreen"><br>
+<img align="left" src="https://img.shields.io/badge/SVG-Intermediate-brightgreen"><br>
 
 <!--
 - 🔭 I’m currently working on ...
