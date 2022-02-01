@@ -1,12 +1,13 @@
-## <a href="https://27px.github.io/">Portfolio (Rahul R)</a>
+## <a href="https://27px.github.io/">Rahul R</a>
 
-###### 2021 MCA Pass-out from Govt. RIT Kottayam
+#### Associate Software Engineer at Litmus7, 2021 MCA Pass-out from Govt. RIT Kottayam
 
 ### My Stats
+
 ---
 
 <div style="text-align:center;">
-  <img align="center" height="180px" alt="27px's Github Stats" src="https://github-readme-stats.vercel.app/api?username=27px&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=45,FFE53B,FF2525&title_color=000000&text_color=000000&icon_color=000000" />
+  <img align="center" height="180px" alt="27px's Github Stats" src="https://github-readme-stats.vercel.app/api?username=27px&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=45,FFE53B,FF2525&title_color=000000&text_color=000000&icon_color=000000" /><br><br>
   <img align="center" height="180px" alt="27px's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27px&bg_color=45,90CAF9,1565C0&title_color=000000&text_color=FFFFFF&icon_color=000000&layout=compact" />
 </div>
 
@@ -14,64 +15,46 @@
 
 ### Technologies & Tools
 
-+ Back-end
+- General Purpose Programming
 
-<img align="left" src="https://img.shields.io/badge/Node.JS-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/Express.js-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/EJS-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/PHP-Advanced-brightgreen"><br>
+1. Python
+2. Java
+3. JavaScript
+   > (Yes, JavaScript is a General Purpose programming language check here [wikipedia](https://en.wikipedia.org/wiki/General-purpose_programming_language#:~:text=Java-,JavaScript,-Julia))
 
-+ Front-end
+<br>
 
-<img align="left" src="https://img.shields.io/badge/JavaScript-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/ES7-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/CSS-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/Angular-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/React-Beginner-brightgreen"><br>
+- Back-end
 
-+ Databases
+1. Spring Boot
+2. Flask
+3. Node.js
+4. Express.js
+5. EJS
+6. PHP
 
-<img align="left" src="https://img.shields.io/badge/MySQL-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/Postgresql-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/MongoDB-Intermediate-brightgreen"><br>
+<br>
 
-+ General Purpose Programming
+- Front-end
 
-<img align="left" src="https://img.shields.io/badge/Python-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/Java-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/Spring%20Boot-Beginner-brightgreen"><br>
+1. JavaScript, ES7
+2. CSS
+3. Angular
 
-+ Version Control
+<br>
 
-<img align="left" src="https://img.shields.io/badge/Git-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/Github-Advanced-brightgreen"><br>
+- Databases
 
-+ Data Transport
+1. MySQL
+2. Postgresql
+3. MongoDB
+4. Neo4j
+5. ArangoDB
 
-<img align="left" src="https://img.shields.io/badge/REST%20API-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/JSON-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/XML-Advanced-brightgreen"><br>
+<br>
 
-+ Package Management
-
-<img align="left" src="https://img.shields.io/badge/NPM-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/PIP-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/MVN-Beginner-brightgreen"><br>
-
-+ Other
-
-<img align="left" src="https://img.shields.io/badge/HTML-Advanced-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/AJAX-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/REST%20API-Intermediate-brightgreen"><br>
-<img align="left" src="https://img.shields.io/badge/SVG-Intermediate-brightgreen"><br>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Remote File Manager](https://github.com/27px/Remote-File-Manager)
+- 🎓 I’m currently learning Machine Learning <!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with [Remote File Manager](https://github.com/27px/Remote-File-Manager)<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: +91 9895951554, twentysevenpixels@gmail.com
+<!-- - ⚡ Fun fact: ... -->
