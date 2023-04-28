@@ -15,48 +15,13 @@
 
 <br>
 
-### Familiar Technologies & Tools
-
-- General Purpose Programming Languages
-
-1. Python
-2. Java
-3. JavaScript
-   > (Yes, JavaScript is a General Purpose programming language check here [wikipedia](https://en.wikipedia.org/wiki/General-purpose_programming_language#:~:text=Java-,JavaScript,-Julia))
-
-<br>
-
-- Back-end
-
-1. Spring Boot
-2. Flask
-3. Node.js
-4. Express.js
-5. EJS
-6. PHP
-
-<br>
-
-- Front-end
-
-1. JavaScript, ES7
-2. CSS
-3. Angular
-
-<br>
-
-- Databases
-
-1. MySQL
-2. Postgresql
-3. MongoDB
-4. ArangoDB
-5. Neo4j
-
-<br>
-
-- 🔭 I’m currently working on [Remote File Manager](https://github.com/27px/Remote-File-Manager)
-- 🎓 I’m currently learning Machine Learning<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with [Remote File Manager](https://github.com/27px/Remote-File-Manager)<!-- - 💬 Ask me about ... -->
+- 🎓 I’m currently learning `Machine Learning`
+- 🤔 I’m looking for help with [Remote File Manager](https://github.com/27px/Remote-File-Manager)
 - 📫 How to reach me: +91 9895951554, twentysevenpixels@gmail.com
-<!-- - ⚡ Fun fact: ... -->
+
+### About Me
+
+- Started as a Web dev (`JS/CSS/PHP/MySQL`) while pursuing plus two and under graduation.
+- Turned to Full Stack development (`Node.js/Express.js/Angular/MongoDB/MySQL`) while pursuing Post Graduation.
+- Learned some `Core Java`, `Spring Boot` and `Android`, `Docker`, `Linux` somewhere in between these days.
+- Working as a `Python` `Machine Learning` Engineer in `Litmus7`, Learned `FastAPI` and many other python libraries ...
