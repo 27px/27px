@@ -15,13 +15,15 @@
 
 <br>
 
-- 🎓 I’m currently learning `Machine Learning`
-- 🤔 I’m looking for help with [Remote File Manager](https://github.com/27px/Remote-File-Manager)
-- 📫 How to reach me: +91 9895951554, twentysevenpixels@gmail.com
-
 ### About Me
 
 - Started as a Web dev (`JS/CSS/PHP/MySQL`) while pursuing plus two and under graduation.
 - Turned to Full Stack development (`Node.js/Express.js/Angular/MongoDB/MySQL`) while pursuing Post Graduation.
 - Learned some `Core Java`, `Spring Boot` and `Android`, `Docker`, `Linux` somewhere in between these days.
 - Working as a `Python` `Machine Learning` Engineer in `Litmus7`, Learned `FastAPI` and many other python libraries ...
+
+### More
+
+- 🎓 I’m currently learning `Machine Learning`
+- 🤔 I’m looking for help with [Remote File Manager](https://github.com/27px/Remote-File-Manager)
+- 📫 How to reach me: +91 9895951554, twentysevenpixels@gmail.com
